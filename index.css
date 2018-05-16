@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+  }
+  
+body {
+   background-image: url('https://img00.deviantart.net/2ab7/i/2016/122/7/7/youtube_play_button_background__3000_x_1700__by_dannegoma-da10ku5.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.button {
+  background: black;
+  color: white;
+}
+
+li {
+  list-style: none;
+}
+body {
+  text-align: center;
+}
